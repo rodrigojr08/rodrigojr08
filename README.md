@@ -1,4 +1,4 @@
- ### Olá me chamo Rodrigo. Desenvolvedor WEB, atuando 3 anos como freelancer desenvolvendo sites e soluções digitais. Recentemente descobri a paixão em liguagens como HTML, CSS e Javascrip.  
+ ### Olá me chamo Rodrigo. Desenvolvedor Web Full Stack, Atualmente sou desenvolvedor Web Full Stack da Universidade de Sorocaba, utilizando Angular, .Net, SQL Server, Bootstrap, além disso possuo conhecimento em Flutter, Javascript e Kotlin.  
 
 
 
